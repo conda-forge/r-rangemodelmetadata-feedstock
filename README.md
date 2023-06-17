@@ -1,11 +1,11 @@
-About r-rangemodelmetadata
-==========================
+About r-rangemodelmetadata-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rangemodelmetadata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=rangeModelMetadata
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rangemodelmetadata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Range Modeling Metadata Standards (RMMS) address three challenges: they (i) are designed for convenience to encourage use, (ii) accommodate a wide variety of applications, and (iii) are extensible to allow the community of range modelers to steer it as needed. RMMS are based on a data dictionary that specifies a hierarchical structure to catalog different aspects of the range modeling process. The dictionary balances a constrained, minimalist vocabulary to improve standardization with flexibility for users to provide their own values. Merow et al. (2019) <DOI:10.1111/geb.12993> describe the standards in more detail. Note that users who prefer to use the R package 'ecospat' can obtain it from <https://github.com/ecospat/ecospat>.
 
