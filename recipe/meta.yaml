@@ -26,32 +26,16 @@ requirements:
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
     - r-base
-    - r-mass
-    - r-dplyr
-    - r-jsonlite
-    - r-raster
-    - r-rgbif
-    - r-rgdal
-    - r-rgeos
+    - r-bien
     - r-shiny
-    - r-sp
-    - r-spthin
-    - r-spatstat
     - r-spocc
+    - r-terra
   run:
     - r-base
-    - r-mass
-    - r-dplyr
-    - r-jsonlite
-    - r-raster
-    - r-rgbif
-    - r-rgdal
-    - r-rgeos
+    - r-bien
     - r-shiny
-    - r-sp
-    - r-spthin
-    - r-spatstat
     - r-spocc
+    - r-terra
 
 test:
   commands:
